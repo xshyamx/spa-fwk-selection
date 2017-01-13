@@ -34,7 +34,7 @@ require(['jquery', 'bootstrap', 'd3', 'radar-chart', 'handlebars', 'text!templat
   var fwkLabels = {
     'angular-js'  : 'AngularJS',
     'backbone-js' : 'BackboneJS',
-    'angular2' : 'Angular 2',
+    'angular2' : 'Angular2',
     'ember-js'    : 'EmberJS',
     'react-redux' : 'React+Redux',
     'knockout-js' : 'KnockoutJS',
